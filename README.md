@@ -4,7 +4,7 @@
 
 ## 1. Fraud Detection
 
-**🛡️ Fraud Intelligence Dashboard: Monitoring Transaction Risk, Fraud Trends & Behavioral Patterns**
+** Fraud Intelligence Dashboard: Monitoring Transaction Risk, Fraud Trends & Behavioral Patterns**
 An interactive Power BI dashboard designed to analyze digital transactions, detect fraud patterns, and provide actionable insights for financial risk management.
 
 ---
@@ -32,7 +32,7 @@ The dashboard was built using the following tools and technologies:
 
 **Source:** Kaggle – Credit Card Fraud Detection Dataset
 
-The dataset contains detailed digital transaction records including:
+The dataset contains detailed digital transaction records, including:
 
 * Transaction amount
 * Time of transaction
@@ -46,7 +46,7 @@ Additional references include reports from RBI, World Bank, and Statista for con
 
 ## 5. Features / Highlights
 
-### 🔴 Business Problem
+###  Business Problem
 
 With the rapid rise of digital payments (UPI, wallets, online banking), fraud cases have increased significantly. However, organizations face challenges such as:
 
@@ -59,7 +59,7 @@ This leads to financial loss, operational risk, and reduced customer trust.
 
 ---
 
-### 🎯 Goal of the Dashboard
+###  Goal of the Dashboard
 
 To develop an interactive and visual analytics tool that:
 
@@ -71,7 +71,7 @@ To develop an interactive and visual analytics tool that:
 
 ---
 
-### 📊 Walkthrough of Key Visuals
+###  Walkthrough of Key Visuals
 
 #### 🔹 KPI Cards (Top Section)
 
@@ -144,30 +144,30 @@ To develop an interactive and visual analytics tool that:
 
 ---
 
-### 💡 Algorithm & Logic Used
+###  Algorithm & Logic Used
 
 * Transactions with **risk score > 0.7 → High Risk**
 * Sudden spikes in amount → **Anomaly detection**
 * Late-night transactions → **Behavioral risk analysis**
 * Location inconsistencies → **Fraud indicators**
 
-👉 Focus is on **interpretable analytics**, not black-box models.
+Focus is on **interpretable analytics**, not black-box models.
 
 ---
 
-### 🚀 Business Impact & Insights
+###  Business Impact & Insights
 
-* 📉 **Fraud Reduction:** Early detection of high-risk transactions
-* 📊 **Better Decision Making:** Clear visual insights for analysts
-* 🌍 **Geographic Risk Analysis:** Identify fraud-prone regions
-* ⏱️ **Behavioral Insights:** Detect unusual time-based activities
-* 🏦 **Operational Efficiency:** Faster response to fraud incidents
+*  **Fraud Reduction:** Early detection of high-risk transactions
+*  **Better Decision Making:** Clear visual insights for analysts
+*  **Geographic Risk Analysis:** Identify fraud-prone regions
+*  **Behavioral Insights:** Detect unusual time-based activities
+*  **Operational Efficiency:** Faster response to fraud incidents
 
 ---
 
 ## 6. Screenshots / Demo
 
-### 📊 Dashboard Preview
+###  Dashboard Preview
 
 ![Image](https://github.com/SwayamPrabha12/Fraud-Detection/blob/main/SnapShot_FraudDetection.png)
 
