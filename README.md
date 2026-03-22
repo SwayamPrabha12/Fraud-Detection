@@ -169,9 +169,7 @@ To develop an interactive and visual analytics tool that:
 
 ### 📊 Dashboard Preview
 
-![Image]([https://miro.medium.com/1%2AwUn_Z2IotA6kK6rXtlEbCA.png](https://github.com/SwayamPrabha12/Fraud-Detection/blob/main/SnapShot_FraudDetection.png))
-
-![Image](https://miro.medium.com/1%2AV4pAZdgu5E0QAvdB0p3a0w.png)
+![Image](https://github.com/SwayamPrabha12/Fraud-Detection/blob/main/SnapShot_FraudDetection.png)
 
 
 ---
