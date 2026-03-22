@@ -173,9 +173,6 @@ To develop an interactive and visual analytics tool that:
 
 ![Image](https://miro.medium.com/1%2AV4pAZdgu5E0QAvdB0p3a0w.png)
 
-![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/d/a/dashboard_for_monitoring_fraud_and_money_implementing_bank_transaction_monitoring_slide01.jpg)
-
-![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/d/a/dashboard_for_monitoring_fraud_and_money_real_time_transaction_monitoring_tools_slide01.jpg)
 
 ---
 
@@ -208,6 +205,3 @@ This project demonstrates how data visualization bridges the gap between raw dat
 * Investopedia – Financial Risk Concepts
 
 ---
-### 10. Snapshot
-![Dashboard Preview]()
-
